@@ -7,4 +7,4 @@
 ### Второй этап регистрации
 ![alt text](https://pp.userapi.com/c851124/v851124061/14b3a/El4zuTFD51E.jpg)
 ### Основное окно с примером переписки
-![alt text](https://pp.userapi.com/c851124/v851124061/14b43/2rAWzurh-4k.jpg)
+![alt text](https://pp.userapi.com/c851424/v851424296/17473/ev8SwBKPTIY.jpg)
