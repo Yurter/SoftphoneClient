@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Pictures/addFriend.png</file>
+        <file>Pictures/attachment.png</file>
+        <file>Pictures/blockUser.png</file>
+        <file>Pictures/chat.png</file>
+        <file>Pictures/defaultAvatar.png</file>
+        <file>Pictures/exit.png</file>
+        <file>Pictures/friends.png</file>
+        <file>Pictures/logo.PNG</file>
+        <file>Pictures/maximize.png</file>
+        <file>Pictures/minimize.png</file>
+        <file>Pictures/no.png</file>
+        <file>Pictures/plus.png</file>
+        <file>Pictures/removeFriend.png</file>
+        <file>Pictures/settings.png</file>
+        <file>Pictures/yes.png</file>
+        <file>QmlComponents/QmlPrimitiveComponents/BlueWindow.qml</file>
+        <file>QmlComponents/QmlPrimitiveComponents/Edit.qml</file>
+        <file>QmlComponents/QmlPrimitiveComponents/LabelEdit.qml</file>
+        <file>QmlComponents/QmlPrimitiveComponents/RectangleImageButton.qml</file>
+        <file>QmlComponents/QmlPrimitiveComponents/RectangleMouseArea.qml</file>
+        <file>QmlComponents/QmlPrimitiveComponents/RoundedImage.qml</file>
+        <file>QmlComponents/QmlPrimitiveComponents/RoundedRectangle.qml</file>
+        <file>QmlComponents/QmlPrimitiveComponents/RoundImage.qml</file>
+        <file>QmlComponents/QmlPrimitiveComponents/RoundImageButton.qml</file>
+        <file>QmlComponents/QmlPrimitiveComponents/RoundMouseArea.qml</file>
+        <file>QmlComponents/ConversationArea.qml</file>
+        <file>QmlComponents/ConversationTitle.qml</file>
+        <file>QmlComponents/ImagePicker.qml</file>
+        <file>QmlComponents/PanelConversation.qml</file>
+        <file>QmlComponents/PanelCurrentUser.qml</file>
+        <file>QmlComponents/PanelList.qml</file>
+        <file>QmlComponents/PanelListSwitcher.qml</file>
+        <file>QmlComponents/PanelMessage.qml</file>
+        <file>QmlComponents/PanelMessageEdit.qml</file>
+        <file>QmlComponents/PanelUser.qml</file>
+        <file>QmlComponents/ToolButtons.qml</file>
+        <file>QmlComponents/TopWindowPanel.qml</file>
+        <file>loginWindow.qml</file>
+        <file>mainWindow.qml</file>
+        <file>registerOneWindow.qml</file>
+        <file>registerTwoWindow.qml</file>
+        <file>Pictures/normalize.png</file>
+    </qresource>
+</RCC>
